@@ -11,4 +11,14 @@ public class loop {
             i+=1;
         }
     }
+    public static void do_while(int number){
+        int i=0;
+        do{
+            System.out.println("The number is : "+i);
+            i+=1;
+            if(i>number){
+                break;
+            }
+        }while(i<number);
+    }
 }

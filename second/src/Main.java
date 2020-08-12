@@ -11,6 +11,7 @@ public class Main {
         loop lop =new loop();
         lop.loop(5);
         lop.whiile(5);
+        lop.do_while(7);
 
     }
     public static void calculateScore(boolean b,int score, int level,int bonus){
