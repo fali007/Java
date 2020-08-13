@@ -1,4 +1,5 @@
 public class Car {
+//    private variables that is protecting from outside, that define encapsulation.
     private int door;
     private int wheels;
     private String model;
