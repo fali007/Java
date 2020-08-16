@@ -1,5 +1,8 @@
 public class Car {
 //    private variables that is protecting from outside, that define encapsulation.
+    public Car(){
+        System.out.println("Class is created");
+    }
     private int door;
     private int wheels;
     private String model;

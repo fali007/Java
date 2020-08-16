@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/Users/felixgeorge/Documents/spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/457276557.index
-/myWebbApp/src/main/java
-/Users/felixgeorge/Documents/spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/213482793.index
-/myWebbApp/src/main/java
