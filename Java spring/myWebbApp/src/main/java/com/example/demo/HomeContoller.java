@@ -13,9 +13,9 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HomeContoller {
 	@RequestMapping("home")
-	public ModelAndView home(@RequestParam("name") String Myname) {
+	public ModelAndView home(Alien alien) {
 		ModelAndView mv= new ModelAndView();
-		mv.addObject("name",Myname);
+		mv.addObject("obj",alien);
 		mv.setViewName("home");
 		return mv;
 	}
